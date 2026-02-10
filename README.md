@@ -10,7 +10,7 @@ I’m a software engineering student passionate about technology and creating in
 ---
 
 -  <img src="https://cdn.prod.website-files.com/69254b2e2810790c61cabc1f/694ae705d3e48727cde74cca_backend%20(1).gif" width="30px">&nbsp;I’m looking for help with **Backend development**
--  <img src="https://milugardigital.com/wp-content/uploads/2021/01/giphy.gif" width="30px">&nbsp;  You can view my projects at: [https://portafolio-angie-rivera.netlify.app](https://portafolio-angie-rivera.netlify.app)
+-  <img https://www.processmaker.com/wp-content/uploads/2020/08/processmaker-workflow-hero-home.gif  You can view my projects at: [https://portafolio-angie-rivera.netlify.app](https://portafolio-angie-rivera.netlify.app)
 - 📫 Reach out to me at: <a href="mailto:angie7n14@gmail.com">angie7n14@gmail.com</a>
 
 ---
