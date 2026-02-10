@@ -9,7 +9,7 @@ I’m a software engineering student passionate about technology and creating in
 
 ---https://media.baamboozle.com/uploads/images/1013871/1674502909_11597_gif-url.gif
 
--  <img src="+https://pixelpro.com.co/wp-content/uploads/2023/05/ico-hosting.gif" width="30px">&nbsp;I’m looking for help with **Backend development**
+-  <img src="https://pixelpro.com.co/wp-content/uploads/2023/05/ico-hosting.gif" width="30px">&nbsp;I’m looking for help with **Backend development**
 -  <img src="https://pixelpro.com.co/wp-content/uploads/2023/05/ico-intranet.gif" width="30px">&nbsp;  You can view my projects at: [https://portafolio-angie-rivera.netlify.app](https://portafolio-angie-rivera.netlify.app)
 - <img src="https://pixelpro.com.co/wp-content/uploads/2023/05/ico-boletin-correo.gif" width="30px">&nbsp; Reach out to me at: <a href="mailto:angie7n14@gmail.com">angie7n14@gmail.com</a>
 
