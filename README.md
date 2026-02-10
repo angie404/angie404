@@ -7,7 +7,7 @@
 
 I’m a software engineering student passionate about technology and creating inclusive digital spaces. My primary focus is **Front-End Development**
 
----https://media.baamboozle.com/uploads/images/1013871/1674502909_11597_gif-url.gif
+
 
 -  <img src="https://pixelpro.com.co/wp-content/uploads/2023/05/ico-hosting.gif" width="30px">&nbsp;I’m looking for help with **Backend development**
 -  <img src="https://pixelpro.com.co/wp-content/uploads/2023/05/ico-intranet.gif" width="30px">&nbsp;  You can view my projects at: [https://portafolio-angie-rivera.netlify.app](https://portafolio-angie-rivera.netlify.app)
