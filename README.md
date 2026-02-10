@@ -4,15 +4,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m a software engineering student passionate about technology. Currently, I’m building my skills as a web developer through programs like Tecnolochicas and Junior Achievement. I strive to inspire more women to join the tech world and create inclusive digital spaces.
 
-- 🌱 I’m currently learning:
-  - CSS
-  - JavaScript
-  - Git
-- 🎮 I’m looking to collaborate on projects in the **gaming or entertainment industry**
-- 🔧 I’m looking for help with **Backend development**
-- 🌐 You can view my projects at: [https://portafolio-angie-rivera.netlify.app](https://portafolio-angie-rivera.netlify.app)
+I’m a software engineering student passionate about technology and creating inclusive digital spaces. My primary focus is **Front-End Development**
+
+---
+
+-  <img src="https://cdn.prod.website-files.com/69254b2e2810790c61cabc1f/694ae705d3e48727cde74cca_backend%20(1).gif" width="30px">&nbsp;I’m looking for help with **Backend development**
+-  <img src="https://milugardigital.com/wp-content/uploads/2021/01/giphy.gif" width="30px">&nbsp;  You can view my projects at: [https://portafolio-angie-rivera.netlify.app](https://portafolio-angie-rivera.netlify.app)
 - 📫 Reach out to me at: <a href="mailto:angie7n14@gmail.com">angie7n14@gmail.com</a>
 
 ---
