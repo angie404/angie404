@@ -7,11 +7,11 @@
 
 I’m a software engineering student passionate about technology and creating inclusive digital spaces. My primary focus is **Front-End Development**
 
----
+---https://media.baamboozle.com/uploads/images/1013871/1674502909_11597_gif-url.gif
 
 -  <img src="https://cdn.prod.website-files.com/69254b2e2810790c61cabc1f/694ae705d3e48727cde74cca_backend%20(1).gif" width="30px">&nbsp;I’m looking for help with **Backend development**
 -  <img src="https://img.genial.ly/5f30af3055cc137c86a5d605/429e3a4e-be1d-470f-8bcf-642e8e9b273c.gif" width="30px">&nbsp;  You can view my projects at: [https://portafolio-angie-rivera.netlify.app](https://portafolio-angie-rivera.netlify.app)
-- 📫 Reach out to me at: <a href="mailto:angie7n14@gmail.com">angie7n14@gmail.com</a>
+- <img src="https://media.baamboozle.com/uploads/images/1013871/1674502909_11597_gif-url.gif" width="30px">&nbsp; Reach out to me at: <a href="mailto:angie7n14@gmail.com">angie7n14@gmail.com</a>
 
 ---
 
